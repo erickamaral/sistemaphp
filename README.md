@@ -7,7 +7,8 @@
 * Composer
 
 >Front-end
-* HTML,CSS
+* HTML
+* CSS
 * Bootstrap
 * Jquery
 
